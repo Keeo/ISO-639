@@ -1,0 +1,12 @@
+{
+    "name": "keo/iso-639",
+    "description": "Composer compatible array of languages based on ISO-639",
+    "authors": [
+        {
+            "name": "Martin Moravek",
+            "email": "moravek.martin@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
