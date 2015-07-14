@@ -6,7 +6,7 @@ class Languages
 {
     public function getLanguages()
     {
-        return $this->languages;
+        return self::$languages;
     }
 
     /*
